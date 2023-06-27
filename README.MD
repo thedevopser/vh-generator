@@ -12,7 +12,7 @@ Récupérer le projet
 # On rentre à la racine
 cd
 # On clone le projet
-git clone git@gitlabdev:cpamg/vh-generator.git
+git clone git@github.com:thedevopser/vh-generator.git
 ```
 
 Lancer le script
